@@ -1,0 +1,11 @@
+.button-container {
+  display: flex;
+}
+
+button {
+  background: gray;
+  width: 6rem;
+  height: 3rem;
+  color: white;
+  margin-right: 1rem;
+}
